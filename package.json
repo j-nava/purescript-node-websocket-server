@@ -1,0 +1,22 @@
+{
+  "name": "purescript-node-websocket-server",
+  "version": "0.0.1",
+  "description": "Wrapper to node's WebSocketServer from \"ws\" package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-nava/purescript-node-websocket-server.git"
+  },
+  "author": "Jesse Nava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-nava/purescript-node-websocket-server/issues"
+  },
+  "homepage": "https://github.com/j-nava/purescript-node-websocket-server#readme",
+  "dependencies": {
+    "ws": "^8.4.2"
+  }
+}

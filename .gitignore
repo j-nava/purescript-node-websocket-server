@@ -5,4 +5,7 @@ node_modules
 
 # Generated files
 .psci
+.purs-repl
+.psc-ide-port
 output
+package-lock.json
